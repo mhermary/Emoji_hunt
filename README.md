@@ -12,9 +12,11 @@ Given an example of a random emoji (from a bank of around 300), our algorithm fo
 [And here is an example of matching points on the Eiffel tower in photos taken from two different angles.](https://www.analyticsvidhya.com/blog/2019/10/detailed-guide-powerful-sift-technique-image-matching-python/)
 
 The emoji bank was largely filled with flags, and our algorithm was able to detect keypoints within them.
+
 ![Malaysia Flag Emoji](Malaysia_flag_emoji.png)
 
 As well as match them to the image with the emoji superimposed on it.
+
 ![Malaysia Flag Image](Malaysia_flag_img.png)
 
 It also worked with face emojis.
