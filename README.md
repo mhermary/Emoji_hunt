@@ -18,6 +18,7 @@ As well as match them to the image with the emoji superimposed on it.
 ![Malaysia Flag Image](Malaysia_flag_img.png)
 
 It also worked with face emojis.
+
 ![Swirly eyed emoji](Swirly_eyed_emoji.png)
 
 ![Swirly eyed img](Swirly_eyed_img.png)
